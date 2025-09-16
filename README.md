@@ -1,9 +1,5 @@
 # Hi there 👋, I'm Trent Evans
 
-![Trent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trenti6&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trenti6&layout=compact&theme=radical)  
-
----
 
 ## 🛠️ Languages & Frameworks
 
